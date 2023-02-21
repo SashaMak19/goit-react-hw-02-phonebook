@@ -1,0 +1,14 @@
+.container {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.title {
+  padding: 0 20px;
+}
+
+.contactListContainer {
+  border: 1px solid #000;
+  border-radius: 4px;
+  padding: 20px;
+}

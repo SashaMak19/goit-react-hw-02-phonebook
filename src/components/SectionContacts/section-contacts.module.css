@@ -1,0 +1,18 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.button:hover {
+  background-color: rgb(179, 179, 219);
+}
